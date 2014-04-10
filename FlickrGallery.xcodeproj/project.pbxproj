@@ -22,6 +22,19 @@
 		EC41F74918F6865F00A46274 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC41F72D18F6865F00A46274 /* CoreData.framework */; };
 		EC41F75118F6865F00A46274 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EC41F74F18F6865F00A46274 /* InfoPlist.strings */; };
 		EC41F75318F6865F00A46274 /* FlickrGalleryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EC41F75218F6865F00A46274 /* FlickrGalleryTests.m */; };
+		EC41F75D18F6871200A46274 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC41F75C18F6871200A46274 /* MainStoryboard.storyboard */; };
+		EC41F76018F68E9E00A46274 /* PictureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC41F75F18F68E9E00A46274 /* PictureViewController.m */; };
+		EC41F76318F68ED800A46274 /* ReaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = EC41F76218F68ED800A46274 /* ReaderView.m */; };
+		EC41F76D18F696F500A46274 /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC41F76418F696F500A46274 /* 0.jpg */; };
+		EC41F76E18F696F500A46274 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC41F76518F696F500A46274 /* 1.jpg */; };
+		EC41F76F18F696F500A46274 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC41F76618F696F500A46274 /* 2.jpg */; };
+		EC41F77018F696F500A46274 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC41F76718F696F500A46274 /* 3.jpg */; };
+		EC41F77118F696F500A46274 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC41F76818F696F500A46274 /* 4.jpg */; };
+		EC41F77218F696F500A46274 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC41F76918F696F500A46274 /* 5.jpg */; };
+		EC41F77318F696F500A46274 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC41F76A18F696F500A46274 /* 6.jpg */; };
+		EC41F77418F696F500A46274 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC41F76B18F696F500A46274 /* 7.jpg */; };
+		EC41F77518F696F500A46274 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC41F76C18F696F500A46274 /* 8.jpg */; };
+		EC41F77718F6979B00A46274 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC41F77618F6979B00A46274 /* 9.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +66,21 @@
 		EC41F74E18F6865F00A46274 /* FlickrGalleryTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FlickrGalleryTests-Info.plist"; sourceTree = "<group>"; };
 		EC41F75018F6865F00A46274 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EC41F75218F6865F00A46274 /* FlickrGalleryTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FlickrGalleryTests.m; sourceTree = "<group>"; };
+		EC41F75C18F6871200A46274 /* MainStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
+		EC41F75E18F68E9E00A46274 /* PictureViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PictureViewController.h; sourceTree = "<group>"; };
+		EC41F75F18F68E9E00A46274 /* PictureViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PictureViewController.m; sourceTree = "<group>"; };
+		EC41F76118F68ED800A46274 /* ReaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderView.h; sourceTree = "<group>"; };
+		EC41F76218F68ED800A46274 /* ReaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderView.m; sourceTree = "<group>"; };
+		EC41F76418F696F500A46274 /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
+		EC41F76518F696F500A46274 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		EC41F76618F696F500A46274 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		EC41F76718F696F500A46274 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		EC41F76818F696F500A46274 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		EC41F76918F696F500A46274 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		EC41F76A18F696F500A46274 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		EC41F76B18F696F500A46274 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		EC41F76C18F696F500A46274 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		EC41F77618F6979B00A46274 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +145,21 @@
 			children = (
 				EC41F73818F6865F00A46274 /* AppDelegate.h */,
 				EC41F73918F6865F00A46274 /* AppDelegate.m */,
+				EC41F75C18F6871200A46274 /* MainStoryboard.storyboard */,
+				EC41F76418F696F500A46274 /* 0.jpg */,
+				EC41F76518F696F500A46274 /* 1.jpg */,
+				EC41F76618F696F500A46274 /* 2.jpg */,
+				EC41F76718F696F500A46274 /* 3.jpg */,
+				EC41F76818F696F500A46274 /* 4.jpg */,
+				EC41F76918F696F500A46274 /* 5.jpg */,
+				EC41F76A18F696F500A46274 /* 6.jpg */,
+				EC41F76B18F696F500A46274 /* 7.jpg */,
+				EC41F76C18F696F500A46274 /* 8.jpg */,
+				EC41F77618F6979B00A46274 /* 9.jpg */,
+				EC41F75E18F68E9E00A46274 /* PictureViewController.h */,
+				EC41F75F18F68E9E00A46274 /* PictureViewController.m */,
+				EC41F76118F68ED800A46274 /* ReaderView.h */,
+				EC41F76218F68ED800A46274 /* ReaderView.m */,
 				EC41F73E18F6865F00A46274 /* Images.xcassets */,
 				EC41F73B18F6865F00A46274 /* FlickrGallery.xcdatamodeld */,
 				EC41F73018F6865F00A46274 /* Supporting Files */,
@@ -228,8 +271,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC41F77718F6979B00A46274 /* 9.jpg in Resources */,
+				EC41F77518F696F500A46274 /* 8.jpg in Resources */,
+				EC41F77418F696F500A46274 /* 7.jpg in Resources */,
+				EC41F77118F696F500A46274 /* 4.jpg in Resources */,
+				EC41F76F18F696F500A46274 /* 2.jpg in Resources */,
+				EC41F76D18F696F500A46274 /* 0.jpg in Resources */,
+				EC41F77218F696F500A46274 /* 5.jpg in Resources */,
+				EC41F77318F696F500A46274 /* 6.jpg in Resources */,
 				EC41F73418F6865F00A46274 /* InfoPlist.strings in Resources */,
 				EC41F73F18F6865F00A46274 /* Images.xcassets in Resources */,
+				EC41F75D18F6871200A46274 /* MainStoryboard.storyboard in Resources */,
+				EC41F77018F696F500A46274 /* 3.jpg in Resources */,
+				EC41F76E18F696F500A46274 /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,7 +303,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC41F73D18F6865F00A46274 /* FlickrGallery.xcdatamodeld in Sources */,
+				EC41F76018F68E9E00A46274 /* PictureViewController.m in Sources */,
 				EC41F73A18F6865F00A46274 /* AppDelegate.m in Sources */,
+				EC41F76318F68ED800A46274 /* ReaderView.m in Sources */,
 				EC41F73618F6865F00A46274 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
